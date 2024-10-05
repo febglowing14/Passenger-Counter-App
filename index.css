@@ -1,0 +1,49 @@
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-id{
+    background: darkred;
+    margin-left: 50px;
+}
+
+#save-btn {
+    background-color: green;
+    margin-left: 50px;
+}
+
+body{
+    background-image: url("COLOR.jpg");
+    background-size: cover;
+}
+#contains{
+    background-color: black;
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-color: red;
+    border-radius: 10px;
+    border-width: 15px;
+    border-style: double;
+}
+h1{
+    color: white;
+    padding-left: 40px;
+}
+h2{
+    color: white;
+    padding-left: 40px;
+}
+p{
+    color: white;
+    padding-left: 40px;
+}
+
+
+
